@@ -1,9 +1,9 @@
-### ✨ Login Required RaolLatestX
+### ✨ Login Required Faavyzz
 ```csharp
 -------------------------
 LOGIN SCRIPT RaolLatestX
-USERNAME: admin
-PASSWORD: admin123
+USERNAME: faa
+PASSWORD: vyz team
 -------------------------
 ```
 ***© 2025 LatestURL. All rights reserved***
